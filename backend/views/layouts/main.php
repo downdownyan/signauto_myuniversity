@@ -37,7 +37,6 @@ AppAsset::register($this);
     $menuItems = [
         ['label' => '首页', 'url' => ['/site/index']],
         ['label' => '用户', 'url' => ['/user/index']],
-        ['label' => '签到数据', 'url' => ['/signdata/index']],
         ['label' => '签到管理', 'url' => ['/signmanual/index']],
 
     ];
