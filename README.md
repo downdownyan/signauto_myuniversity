@@ -1,6 +1,7 @@
 # signauto_myuniversity
 签到管理系统
-
+<html>
+<body>
 <form method="get" action="https://zhaopin.0fafa.com/work/doudou/shixi/insert_qiandao.php">
 
     手机：<input type="text" name="mobile"><br>
@@ -12,3 +13,5 @@
     <button>提交</button>
 
 </form>
+</body>
+</html>
